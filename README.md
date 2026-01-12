@@ -67,10 +67,10 @@ By the end of the challenge, learners can confidently handle **end-to-end Databr
 
 ## 🧠 Daily Progress Tracker
 
+
 | Day | Topic | Description | LinkedIn Post |
 |----|------|-------------|---------------|
-| ✅ D0 | Setup & Data Loading (Prerequisites) | Installed Databricks and prepared datasets for the challenge | [LinkedIn Post](https://www.linkedin.com/posts/rajeevtiwari8055_databrickswithidc-activity-7414678162120544256-dl3g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBAfZUBvbVS3FBHlrEth-1vOAeVXjWJTjE) |
-| ✅ D1 | Platform Setup & First Steps 🚀 | Explored Databricks workspace, notebooks, and first basic operations | [LinkedIn Post](https://www.linkedin.com/posts/rajeevtiwari8055_databrickswithidc-activity-7415457505268707328-8ALI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBAfZUBvbVS3FBHlrEth-1vOAeVXjWJTjE) |
+| ✅ D1 | Platform Setup & First Steps 🚀 | Explored Databricks workspace, notebooks, and first basic operations | [LinkedIn Post]([https://www.linkedin.com/posts/rajeevtiwari8055_databrickswithidc-activity-7415457505268707328-8ALI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBAfZUBvbVS3FBHlrEth-1vOAeVXjWJTjE](https://www.linkedin.com/posts/abdur-rahman-mohd_databrickswithidc-databricks-pyspark-activity-7415346548769001472-Oj4Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAADI6bT8B0peFsM0gk0w4sk-UyJBpYcuUgo4)) |
 | ✅ D2 | Apache Spark Fundamentals ⚡| Learned Spark RDDs, DataFrames, and basic transformations | [LinkedIn Post](https://www.linkedin.com/posts/rajeevtiwari8055_databrickswithidc-apachespark-bigdata-activity-7415774321287294976--1Ji?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBAfZUBvbVS3FBHlrEth-1vOAeVXjWJTjE) |
 | ✅ D3 | PySpark Transformations | Applied PySpark operations to clean and transform datasets efficiently | [LinkedIn Post](****) |
 | 🔄 D4 | Delta Lake Basics | Implemented Delta Lake tables and learned ACID transactions | [LinkedIn Post](******) |
