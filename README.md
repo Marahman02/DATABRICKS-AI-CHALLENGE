@@ -72,7 +72,7 @@ By the end of the challenge, learners can confidently handle **end-to-end Databr
 | ✅ D0 | Setup & Data Loading (Prerequisites) | Installed Databricks and prepared datasets for the challenge | [LinkedIn Post](https://www.linkedin.com/posts/rajeevtiwari8055_databrickswithidc-activity-7414678162120544256-dl3g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBAfZUBvbVS3FBHlrEth-1vOAeVXjWJTjE) |
 | ✅ D1 | Platform Setup & First Steps 🚀 | Explored Databricks workspace, notebooks, and first basic operations | [LinkedIn Post](https://www.linkedin.com/posts/rajeevtiwari8055_databrickswithidc-activity-7415457505268707328-8ALI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBAfZUBvbVS3FBHlrEth-1vOAeVXjWJTjE) |
 | ✅ D2 | Apache Spark Fundamentals ⚡| Learned Spark RDDs, DataFrames, and basic transformations | [LinkedIn Post](https://www.linkedin.com/posts/rajeevtiwari8055_databrickswithidc-apachespark-bigdata-activity-7415774321287294976--1Ji?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBAfZUBvbVS3FBHlrEth-1vOAeVXjWJTjE) |
-| 🔄 D3 | PySpark Transformations | Applied PySpark operations to clean and transform datasets efficiently | [LinkedIn Post](****) |
+| ✅ D3 | PySpark Transformations | Applied PySpark operations to clean and transform datasets efficiently | [LinkedIn Post](****) |
 | 🔄 D4 | Delta Lake Basics | Implemented Delta Lake tables and learned ACID transactions | [LinkedIn Post](******) |
 | 🔄 D5 | Delta Lake Advanced | Explored versioning, time travel, and advanced Delta Lake features | [LinkedIn Post](******) |
 | 🔄 D6 | Medallion Architecture | Designed Bronze–Silver–Gold layers for structured data pipelines | [LinkedIn Post](******) |
