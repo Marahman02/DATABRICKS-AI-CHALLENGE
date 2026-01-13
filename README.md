@@ -129,7 +129,7 @@ Thanks to **Indian Data Club**, **Codebasics**, and **Databricks** for designing
 
 <div align="center">
 <!-- 💼 LinkedIn -->
-<a href="https://www.linkedin.com/in/rajeevtiwari8055"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/abdur-rahman-mohd/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 <!-- 📮 Gmail -->
 <a href="mailto:rajeevtiwari8055@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35"></a>
 <!-- ✖️ X -->
